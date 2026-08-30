@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-TXXX
 ### Team Details
-#### **Team Name** <<Tech knights>> <br/>
+#### **Team Name** <Tech knights> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
