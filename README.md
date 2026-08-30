@@ -12,11 +12,11 @@
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |A K Vijeesh              |CB.EN.U4ECE26202        |       Male      |       ECE/B.Tech                |  
-|    Member 2     | DIYA V                  |CB.SC.U4CSE26019        |       FEMALE    |       CSE(CORE) /B.Tech         |  
-|    Member 3     |JAYYANI SHREE.J          |CB.SC.U4CSE26029        |      FEMALE     |  CSE(CORE)/B.Tech               |  
-|    Member 4     | VARSHITHA S             |CB.SC.U4CSE26063        |    FEMALE       |   CSE(CORE)/B.Tech              |   
-|    Member 5     | SREE AMBARISH  V R      |CB.EN.U4ECE26250        |     MALE        |   ECE/B.Tech                    |  
-|    Member 6     |  J PADMAJA IRENE        |CB.SC.U4CSE26027        |     Female      |  CSE(CORE)/B.Tech               |   
+|    Member 2     | DIYA V                  |CB.SC.U4CSE26019        |       Female    |       CSE(CORE) /B.Tech         |  
+|    Member 3     |JAYYANI SHREE.J          |CB.SC.U4CSE26029        |      Female    |  CSE(CORE)/B.Tech               |  
+|    Member 4     | VARSHITHA S             |CB.SC.U4CSE26063        |    Female       |   CSE(CORE)/B.Tech              |   
+|    Member 5     | SREE AMBARISH  V R      |CB.EN.U4ECE26250        |     Male       |   ECE/B.Tech                    |  
+|    Member 6     |  J PADMAJA IRENE        |CB.SC.U4CSE26027        |     Female     |  CSE(CORE)/B.Tech               |   
 
 #### Mentor Details
 
