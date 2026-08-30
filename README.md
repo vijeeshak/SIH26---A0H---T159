@@ -34,11 +34,11 @@
 * **Problem Statement ID:**SIH26190
 * **Problem Statement Title:**< Secure Digital Document Management System for Legal and Investigation Documents>
 * **Theme / Category:**<Blockchain & Cybersecurity>
-* **Ministry / Organization:**<Ministry of Home Affairs>
+* **Ministry / Organization:**< Ministry of Home Affairs >
 
 #### PS#2
 
 * **Problem Statement ID:**SIH26189
-* **Problem Statement Title:**<AI-Powered Criminal Network Analysis System>
+* **Problem Statement Title:**< AI-Powered Criminal Network Analysis System >
 * **Theme / Category:**<Blockchain & cybersecurity>
-* **Ministry / Organization:**<Ministry of Home Affairs>
+* **Ministry / Organization:**< Ministry of Home Affairs >
